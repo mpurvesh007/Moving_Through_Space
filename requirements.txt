@@ -1,0 +1,7 @@
+# requirements.txt
+
+tkinter==8.6.12
+dlib==19.22.0
+imutils==0.5.4
+torch==1.9.1
+torchvision==0.10.1
